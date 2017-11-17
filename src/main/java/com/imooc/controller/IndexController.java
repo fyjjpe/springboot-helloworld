@@ -9,6 +9,7 @@ import java.util.List;
 
 /**
  * Created by yuanjie.fang on 2017/11/16.
+ * 测试整合freemarker
  */
 @Controller
 public class IndexController {
